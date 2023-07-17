@@ -159,9 +159,8 @@ margin: 10px;
      }
 
      nav,
-     .teams-container {
-         flex-direction: column;
-     }
+     .teams-container,{flex-direction: column;}
+     
 
      .teams-image-container {
          grid-template-columns: 1fr;
@@ -172,7 +171,9 @@ margin: 10px;
          padding-left: 20px;
 
      }
- }
+    }
+ 
+ 
 
  /* tablet mobile */
  @media screen and (min-width:576px) and (max-width:960px) {
