@@ -1,0 +1,7 @@
+ /* font name : work sans from google font  */
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+  *{
+    font-family: 'Lato', sans-serif;
+font-family: 'Work Sans', sans-serif;
+  }
